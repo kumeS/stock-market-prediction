@@ -64,7 +64,7 @@
 
 - FEZ / QQQ
 
-<img src="inst/images/11_FEZ.png" width="600px" src="inst/images/11_FEZ.png" width="600px">
+<img src="inst/images/11_FEZ.png" width="600px">
 
 - FINX / QQQ
 
