@@ -1,14 +1,12 @@
-## stock-market-prediction
+## Stock Market Prediction (Buy & Sell)
 
 ### 逆張り投資 買いタイミング判定
 
 - 2021-05-13 index銘柄
 
-  - 買いタイミング！: VTI, SPY, DIA, VOO, AGG, AGGY, BND, BUG, HYG, ICLN, IYR, JNK, LQD, SHE, SPLG, SPTM, SRET, SUSA, TLT, VEA, VONE, VOX, VPU, VT, XLC, XLU
+  - 買いタイミング！: VTI, SPY, DIA, VOO, AGG, AGGY, BND, BUG, HYG, ICLN, IYR, JNK, LQD, SHE, SPLG, SPTM, SRET, SUSA, TLT, VEA, VIG, VIS, VONE, VOX, VPU, VT, XLC, XLU
 
   - 強く買いタイミング！！！: QQQ, IWM, AIQ, BOTZ, CLOU, EBIZ, EDOC, FINX, FXI, MGK, MILN, PBD, SMH, SPYG, VBK, VCR, VGT, VIOG, VONG, VOOG, VOT, VPL, VUG, VWO, VXF, XLK, XLY
-
-  - 利確タイミング！: GDX, GLD, GLDM, VDE
 
   - 強く利確タイミング！！！: DBA
 
@@ -22,13 +20,15 @@
 
 - 2021-05-13 個別銘柄
 
-  - 買いタイミング！: SNAP, RPRX, SE
+  - 買いタイミング！: SNAP, RPRX
 
-  - 強く買いタイミング！！！: PLTR, SQ, GDRX, AFRM, PINS, CRWD, U, ZM, NIO, TWTR, ABNB, DOCU, AI, ZI
+  - 強く買いタイミング！！！: PLTR, SQ, GDRX, AFRM, PINS, CRWD, SE, U, ZM, NIO, TWTR, ABNB, DOCU, AI, ZI
 
   - 利確する銘柄なしで、見送り
 
 ### QQQ との変化比率
+
+　**経験的に、0.9以下、1.1以上の場合には、手仕舞いを検討すること**
 
 - IWM / QQQ
 
