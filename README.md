@@ -2,31 +2,31 @@
 
 ### 逆張り投資 買いタイミング判定
 
-- 2021-05-13 index
+- 2021-05-13 index銘柄
 
-  - index銘柄、買いタイミング！: VTI, SPY, DIA, VOO, AGG, AGGY, BND, BUG, FXI, HYG, ICLN, JNK, LQD, SHE, SPLG, SPTM, SRET, SUSA, TLT, VEA, VONE, VOX, VPU, VT, VWO, XLC, XLU
+  - 買いタイミング！: VTI, SPY, DIA, VOO, AGG, AGGY, BND, BUG, HYG, ICLN, IYR, JNK, LQD, SHE, SPLG, SPTM, SRET, SUSA, TLT, VEA, VONE, VOX, VPU, VT, XLC, XLU
 
-  - index銘柄、強く買いタイミング！！！: QQQ, IWM, AIQ, BOTZ, CLOU, EBIZ, EDOC, FINX, MGK, MILN, PBD, SMH, SPYG, VBK, VCR, VGT, VIOG, VONG, VOOG, VOT, VPL, VUG, VXF, XLK, XLY
+  - 強く買いタイミング！！！: QQQ, IWM, AIQ, BOTZ, CLOU, EBIZ, EDOC, FINX, FXI, MGK, MILN, PBD, SMH, SPYG, VBK, VCR, VGT, VIOG, VONG, VOOG, VOT, VPL, VUG, VWO, VXF, XLK, XLY
 
-  - index銘柄、利確タイミング！: GDX, VDE
+  - 利確タイミング！: GDX, GLD, GLDM, VDE
 
-  - index銘柄、強く利確タイミング！！！: DBA
+  - 強く利確タイミング！！！: DBA
 
-- 2021-05-13 レバレッジ
+- 2021-05-13 レバレッジ銘柄
 
-  - レバレッジ銘柄、買いタイミング！: CHAU, DRN
+  - 買いタイミング！: UDOW, CHAU, DRN
 
-  - レバレッジ銘柄、強く買いタイミング！！！: SOXL, YINN, WEBL, TECL, TQQQ, CWEB, LABU, TNA, SPXL, EDC, QLD
+  - 強く買いタイミング！！！: SOXL, YINN, WEBL, TECL, TQQQ, CWEB, LABU, TNA, SPXL, EDC, QLD
 
-  - 利確するレバレッジ銘柄なしで、見送り
+  - 利確する銘柄なしで、見送り
 
-- 2021-05-13 Individual
+- 2021-05-13 個別銘柄
 
-  - 個別銘柄、買いタイミング！: SNAP, RPRX, SE
+  - 買いタイミング！: SNAP, RPRX, SE
 
-  - 個別銘柄、強く買いタイミング！！！: PLTR, SQ, GDRX, AFRM, PINS, CRWD, U, ZM, NIO, TWTR, ABNB, DOCU, AI, ZI
+  - 強く買いタイミング！！！: PLTR, SQ, GDRX, AFRM, PINS, CRWD, U, ZM, NIO, TWTR, ABNB, DOCU, AI, ZI
 
-  - 利確するIndividual銘柄なしで、見送り
+  - 利確する銘柄なしで、見送り
 
 ### QQQ との変化比率
 
