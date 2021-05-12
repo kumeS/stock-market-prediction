@@ -4,17 +4,17 @@
 
 - 2021-05-13 index
 
-  - index銘柄、買いタイミング！: IWM, VTI, SPY, VOO, AGG, AGGY, BND, BUG, FXI, HYG, ICLN, JNK, LQD, SHE, SPLG, SPTM, SPYG, SRET, SUSA, TLT, VONE, VOOG, VOX, VPU, VT, VWO, XLC, XLU
+  - index銘柄、買いタイミング！: VTI, SPY, DIA, VOO, AGG, AGGY, BND, BUG, FXI, HYG, ICLN, JNK, LQD, SHE, SPLG, SPTM, SRET, SUSA, TLT, VEA, VONE, VOX, VPU, VT, VWO, XLC, XLU
 
-  - index銘柄、強く買いタイミング！！！: QQQ, AIQ, BOTZ, CLOU, EBIZ, EDOC, FINX, MGK, MILN, PBD, SMH, VBK, VCR, VGT, VIOG, VONG, VOT, VPL, VUG, VXF, XLK, XLY
+  - index銘柄、強く買いタイミング！！！: QQQ, IWM, AIQ, BOTZ, CLOU, EBIZ, EDOC, FINX, MGK, MILN, PBD, SMH, SPYG, VBK, VCR, VGT, VIOG, VONG, VOOG, VOT, VPL, VUG, VXF, XLK, XLY
 
-  - index銘柄、利確タイミング！: GDX, GLDM, VAW, VDE
+  - index銘柄、利確タイミング！: GDX, VDE
 
   - index銘柄、強く利確タイミング！！！: DBA
 
 - 2021-05-13 レバレッジ
 
-  - レバレッジ銘柄、買いタイミング！: DRN
+  - レバレッジ銘柄、買いタイミング！: CHAU, DRN
 
   - レバレッジ銘柄、強く買いタイミング！！！: SOXL, YINN, WEBL, TECL, TQQQ, CWEB, LABU, TNA, SPXL, EDC, QLD
 
