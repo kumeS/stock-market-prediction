@@ -30,6 +30,8 @@
 
 ### QQQ との変化比率
 
+**経験的に、0.9以下、1.1以上の場合には、手仕舞いを検討すること**
+
 - IWM / QQQ
 
 <img src="inst/images/03_IWM.png" width="600px">
