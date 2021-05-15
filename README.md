@@ -2,27 +2,29 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-- 2021-05-13 index銘柄
+- 2021-05-15 index銘柄
 
-  - 買いタイミング！: VTI, SPY, DIA, VOO, AGG, AGGY, BND, BUG, HYG, ICLN, IYR, JNK, LQD, SHE, SPLG, SPTM, SRET, SUSA, TLT, VEA, VIG, VONE, VOX, VPU, VT, VWOB, XLC, XLRE, XLU
+  - 買いタイミング！: QQQ, AIQ, BOTZ, CLOU, EBIZ, EDOC, FXI, ICLN, MGK, MILN, PBD, SMH, TLT, VBK, VCR, VGT, VONG, VOT, VPL, VUG, VWO, XLK, XLY
 
-  - 強く買いタイミング！！！: QQQ, IWM, AIQ, BOTZ, CLOU, EBIZ, EDOC, FINX, FXI, MGK, MILN, PBD, SMH, SPYG, VBK, VCR, VGT, VIOG, VONG, VOOG, VOT, VPL, VUG, VWO, VXF, XLK, XLY
+  - 強く買いタイミング！！！: FINX
 
-  - 強く利確タイミング！！！: DBA
+  - 利確タイミング！: FEZ, GDX, HDV, SPYD, TIP, VFH, VYM
 
-- 2021-05-13 レバレッジ銘柄
+  - 強く利確タイミング！！！: GLD, GLDM, IAU, VAW, XLF
 
-  - 買いタイミング！: UDOW, CHAU, DRN
+- 2021-05-15 レバレッジ銘柄
 
-  - 強く買いタイミング！！！: SOXL, YINN, WEBL, TECL, TQQQ, CWEB, LABU, TNA, SPXL, EDC, QLD
+  - 買いタイミング！: TECL, TQQQ, LABU, EDC, QLD
 
-  - 利確する銘柄なしで、見送り
+  - 強く買いタイミング！！！: SOXL, YINN, WEBL, CWEB
 
-- 2021-05-13 個別銘柄
+  - 利確タイミング！: FAS
 
-  - 買いタイミング！: SNAP, RPRX
+- 2021-05-15 個別銘柄
 
-  - 強く買いタイミング！！！: PLTR, SQ, GDRX, AFRM, PINS, CRWD, SE, U, ZM, NIO, TWTR, ABNB, DOCU, AI, ZI
+  - 買いタイミング！: PLTR, SNAP, CRWD, U, ZM
+
+  - 強く買いタイミング！！！: SQ, GDRX, RPRX, AFRM, PINS, SE, NIO, TWTR, ABNB, DOCU, AI, ZI
 
   - 利確する銘柄なしで、見送り
 
