@@ -2,31 +2,29 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-- 2021-06-11 index銘柄
+- 2021-06-12 index銘柄
 
   - 買い銘柄なしで、見送り
 
-  - 利確タイミング！: HYG, VDE, VGK, VHT, VWOB
+  - 利確タイミング！: BUG, CLOU, HYG, VEA, VGK, VHT, VOT
 
-  - 強く利確タイミング！！！: AGG, AGGY, BND, IYR, JNK, LQD, SRET, TLT, XLRE
+  - 強く利確タイミング！！！: AGG, AGGY, BND, IYR, JNK, LQD, TLT, VWOB, XLRE
 
-- 2021-06-11 レバレッジ銘柄
+- 2021-06-12 レバレッジ銘柄
 
   - 買いタイミング！: CWEB
 
-  - 利確タイミング！: INDL
-
   - 強く利確タイミング！！！: DRN
 
-- 2021-06-11 個別銘柄
+- 2021-06-12 個別銘柄
 
-  - 買いタイミング！: SQ, ANTM, AI
+  - 買いタイミング！: ANTM, BLDR
 
-  - 強く買いタイミング！！！: BLDR
+  - 利確タイミング！: AFRM, NIO
 
-  - 利確タイミング！: RPRX, DOCU
+  - 強く利確タイミング！！！: ZM, DOCU
 
-  - 早めに利確タイミング！！！！: RPRX, DOCU
+  - 早めに利確タイミング！！！！: NIO
 
 ### QQQ との変化比率
 
