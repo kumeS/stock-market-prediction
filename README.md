@@ -2,29 +2,33 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-- 2021-06-12 index銘柄
+- 2021-07-04 index銘柄
 
-  - 買い銘柄なしで、見送り
+  - 買いタイミング！: FEZ, FXI, GDX, GDXJ, GLD, GLDM, IAU, SPYD, SRET, VAW, VEA, VGK
 
-  - 利確タイミング！: BUG, CLOU, HYG, VEA, VGK, VHT, VOT
+  - 利確タイミング！: AGG, AGGY, AIQ, LQD
 
-  - 強く利確タイミング！！！: AGG, AGGY, BND, IYR, JNK, LQD, TLT, VWOB, XLRE
+  - 強く利確タイミング！！！: QQQ, VTI, SPY, VOO, CLOU, HYG, JNK, MGK, MILN, SHE, SPLG, SPTM, SPYG, SUSA, VCR, VGT, VHT, VONE, VONG, VOOG, VOT, VOX, VUG, XLC, XLK, XLV, XLY
 
-- 2021-06-12 レバレッジ銘柄
+- 2021-07-04 レバレッジ銘柄
 
-  - 買いタイミング！: CWEB
+  - 買いタイミング！: YINN, CHAU
 
-  - 強く利確タイミング！！！: DRN
+  - 強く買いタイミング！！！: CWEB
 
-- 2021-06-12 個別銘柄
+  - 利確タイミング！: WEBL, CURE, SPXL
 
-  - 買いタイミング！: ANTM
+  - 強く利確タイミング！！！: TECL, TQQQ, QLD
 
-  - 利確タイミング！: NIO
+  - 早めに利確タイミング！！！！: CURE, SPXL
 
-  - 強く利確タイミング！！！: ZM, DOCU
+- 2021-07-04 個別銘柄
 
-  - 早めに利確タイミング！！！！: NIO
+  - 強く買いタイミング！！！: GDRX
+
+  - 利確する銘柄なしで、見送り
+
+  - 早めに利確タイミング！！！！: PINS
 
 ### QQQ との変化比率
 
