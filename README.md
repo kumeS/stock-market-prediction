@@ -2,33 +2,31 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-- 2021-07-04 index銘柄
+- 2021-07-18 index銘柄
 
-  - 買いタイミング！: FEZ, FXI, GDX, GDXJ, GLD, GLDM, IAU, SPYD, SRET, VAW, VEA, VGK
+  - 買いタイミング！: BOTZ, EBIZ, EDOC, FEZ, FINX, FXI, GDX, ICLN, PBD, SLV, SMH, SPYD, SRET, VAW, VBK, VEA, VFH, VGK, VIS, VONV, VOOV, VPL, VWO, VYM, XLF
 
-  - 利確タイミング！: AGG, AGGY, AIQ, LQD
+  - 強く買いタイミング！！！: IWM, GDXJ, VDE, VIOG, VXF
 
-  - 強く利確タイミング！！！: QQQ, VTI, SPY, VOO, CLOU, HYG, JNK, MGK, MILN, SHE, SPLG, SPTM, SPYG, SUSA, VCR, VGT, VHT, VONE, VONG, VOOG, VOT, VOX, VUG, XLC, XLK, XLV, XLY
+  - 利確タイミング！: TLT
 
-- 2021-07-04 レバレッジ銘柄
+  - 強く利確タイミング！！！: TIP
 
-  - 買いタイミング！: YINN, CHAU
+- 2021-07-18 レバレッジ銘柄
 
-  - 強く買いタイミング！！！: CWEB
+  - 買いタイミング！: YINN, FAS, EDC
 
-  - 利確タイミング！: WEBL, CURE, SPXL
-
-  - 強く利確タイミング！！！: TECL, TQQQ, QLD
-
-  - 早めに利確タイミング！！！！: CURE, SPXL
-
-- 2021-07-04 個別銘柄
-
-  - 強く買いタイミング！！！: GDRX
+  - 強く買いタイミング！！！: SOXL, CWEB, LABU, TNA, ERX
 
   - 利確する銘柄なしで、見送り
 
-  - 早めに利確タイミング！！！！: PINS
+- 2021-07-18 個別銘柄
+
+  - 買いタイミング！: RPRX, PINS, RBLX
+
+  - 強く買いタイミング！！！: PLTR, GDRX, SNAP, AFRM, U, NVST, BLDR, ABNB, AI
+
+  - 利確する銘柄なしで、見送り
 
 ### QQQ との変化比率
 
