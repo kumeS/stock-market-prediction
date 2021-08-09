@@ -2,37 +2,35 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-- 2021-07-24 index銘柄
+"- 2021-08-09 index銘柄"
 
-  - 買いタイミング！: EDOC, GDX, GDXJ, PBD, SLV, SPYD, VAW, VDE, VWO
+"  - 買いタイミング！: EBIZ, FXI, GDX, GDXJ, GLD, GLDM, HYG, IAU, JNK, LQD, VWO, VWOB"
 
-  - 強く買いタイミング！！！: FXI
+"  - 強く買いタイミング！！！: SLV"
 
-  - 利確タイミング！: SPY, VOO, SHE, SPLG, SPTM, SUSA, VIG, VOT, VOX, XLP
+"  - 利確タイミング！: SMH, SUSA, VHT, VIOG, VPU, XLU, XLV"
 
-  - 強く利確タイミング！！！: QQQ, BUG, MGK, MILN, SPYG, TIP, VGT, VHT, VONG, VOOG, VUG, XLC, XLK, XLV
+"- 2021-08-09 レバレッジ銘柄"
 
-- 2021-07-24 レバレッジ銘柄
+"  - 買いタイミング！: CHAU, LABU"
 
-  - 買いタイミング！: LABU, ERX, EDC
+"  - 強く買いタイミング！！！: YINN, CWEB, EDC"
 
-  - 強く買いタイミング！！！: YINN, CWEB
+"  - 利確タイミング！: TECL"
 
-  - 利確タイミング！: TECL, TQQQ, SPXL, QLD
+"  - 強く利確タイミング！！！: CURE"
 
-  - 強く利確タイミング！！！: CURE
+"  - 早めに利確タイミング！！！！: TECL"
 
-  - 早めに利確タイミング！！！！: TECL, TQQQ, QLD
+"- 2021-08-09 個別銘柄"
 
-- 2021-07-24 個別銘柄
+"  - 買いタイミング！: PLTR, GDRX"
 
-  - 買いタイミング！: PLTR, GDRX, RPRX, ABNB, AI
+"  - 強く買いタイミング！！！: RPRX, PINS, AMGN, AI"
 
-  - 利確タイミング！: SQ, DOCU
+"  - 利確する銘柄なしで、見送り"
 
-  - 強く利確タイミング！！！: SNAP
-
-  - 早めに利確タイミング！！！！: SQ, CRWD, DOCU
+"  - 早めに利確タイミング！！！！: BLDR, ZI"
 
 ### QQQ との変化比率
 
