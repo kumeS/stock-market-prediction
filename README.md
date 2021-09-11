@@ -2,35 +2,37 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-"- 2021-08-09 index銘柄"
+"- 2021-09-11 index銘柄"
 
-"  - 買いタイミング！: EBIZ, FXI, GDX, GDXJ, GLD, GLDM, HYG, IAU, JNK, LQD, VWO, VWOB"
+"  - 買いタイミング！: DBA, GDX, GDXJ, HDV, ICLN, SLV, SPYD, SRET, VFH, VGK, VHT, VIG, VIS, VONV, VOOV, VYM, XLI, XLV"
 
-"  - 強く買いタイミング！！！: SLV"
+"  - 強く買いタイミング！！！: DIA"
 
-"  - 利確タイミング！: SMH, SUSA, VHT, VIOG, VPU, XLU, XLV"
+"  - 利確タイミング！: VPL"
 
-"- 2021-08-09 レバレッジ銘柄"
+"  - 強く利確タイミング！！！: BOTZ"
 
-"  - 買いタイミング！: CHAU, LABU"
+"- 2021-09-11 レバレッジ銘柄"
 
-"  - 強く買いタイミング！！！: YINN, CWEB, EDC"
+"  - 買いタイミング！: ERX"
 
-"  - 利確タイミング！: TECL"
+"  - 強く買いタイミング！！！: YINN, CWEB"
 
-"  - 強く利確タイミング！！！: CURE"
+"  - 利確タイミング！: INDL"
 
-"  - 早めに利確タイミング！！！！: TECL"
+"  - 早めに利確タイミング！！！！: INDL"
 
-"- 2021-08-09 個別銘柄"
+"- 2021-09-11 個別銘柄"
 
-"  - 買いタイミング！: PLTR, GDRX"
+"  - 買いタイミング！: PINS, NIO, AMGN"
 
-"  - 強く買いタイミング！！！: RPRX, PINS, AMGN, AI"
+"  - 強く買いタイミング！！！: SQ, ZM, TWTR, ANTM, DOCU"
 
-"  - 利確する銘柄なしで、見送り"
+"  - 利確タイミング！: GDRX, ABNB"
 
-"  - 早めに利確タイミング！！！！: BLDR, ZI"
+"  - 強く利確タイミング！！！: AFRM"
+
+"  - 早めに利確タイミング！！！！: GDRX, ABNB"
 
 ### QQQ との変化比率
 
