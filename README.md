@@ -2,37 +2,31 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-- 2021-09-11 index銘柄
+"- 2022-01-07 index銘柄"
 
-  - 買いタイミング！: DBA, GDX, GDXJ, HDV, ICLN, SLV, SPYD, SRET, VFH, VGK, VHT, VIG, VIS, VONV, VOOV, VYM, XLI, XLV
+"  - 買いタイミング！: QQQ, AIQ, BOTZ, BUG, EBIZ, FXI, GDX, GDXJ, HYG, JNK, MGK, MILN, SHE, SLV, SPYG, VBK, VGT, VHT, VONG, VOOG, VOX, VPL, VUG, VXF, XLC, XLK, XLV"
 
-  - 強く買いタイミング！！！: DIA
+"  - 強く買いタイミング！！！: AGG, AGGY, BND, CLOU, EDOC, FINX, ICLN, LQD, PBD, TIP, TLT, VOT, VWOB"
 
-  - 利確タイミング！: VPL
+"  - 利確タイミング！: VFH, VOOV, XLF"
 
-  - 強く利確タイミング！！！: BOTZ
+"  - 強く利確タイミング！！！: HDV, SPYD, VDC, VDE, VYM, XLP"
 
-- 2021-09-11 レバレッジ銘柄
+"- 2022-01-07 レバレッジ銘柄"
 
-  - 買いタイミング！: ERX
+"  - 買いタイミング！: TQQQ, CHAU, TNA"
 
-  - 強く買いタイミング！！！: YINN, CWEB
+"  - 強く買いタイミング！！！: YINN, WEBL, CWEB, LABU, EDC"
 
-  - 利確タイミング！: INDL
+"  - 利確する銘柄なしで、見送り"
 
-  - 早めに利確タイミング！！！！: INDL
+"- 2022-01-07 個別銘柄"
 
-- 2021-09-11 個別銘柄
+"  - 買いタイミング！: U, NIO, ABNB, ZI"
 
-  - 買いタイミング！: PINS, NIO, AMGN
+"  - 強く買いタイミング！！！: PLTR, SQ, GDRX, SNAP, AFRM, PINS, CRWD, SE, ZM, TWTR, RBLX, DOCU, AI"
 
-  - 強く買いタイミング！！！: SQ, ZM, TWTR, ANTM, DOCU
-
-  - 利確タイミング！: GDRX, ABNB
-
-  - 強く利確タイミング！！！: AFRM
-
-  - 早めに利確タイミング！！！！: GDRX, ABNB
+"  - 利確する銘柄なしで、見送り"
 
 ### QQQ との変化比率
 
