@@ -2,21 +2,17 @@
 
 ### 逆張り投資 買いタイミング判定 ver 0.99.1
 
-"- 2022-01-07 index銘柄"
+"- 2022-10-10 index銘柄"
 
-"  - 買いタイミング！: QQQ, AIQ, BOTZ, BUG, EBIZ, FXI, GDX, GDXJ, HYG, JNK, MGK, MILN, SHE, SLV, SPYG, VBK, VGT, VHT, VONG, VOOG, VOX, VPL, VUG, VXF, XLC, XLK, XLV"
+"  - 買いタイミング！: IWM, AIQ, BOTZ, BUG, CLOU, EBIZ, EDOC, FEZ, FINX, FXI, HDV, HYG, JNK, LQD, MGK, MILN, SHE, SMH, TIP, VAW, VBK, VCR, VEA, VFH, VGK, VHT, VIOG, VIS, VONG, VOT, VOX, VPL, VUG, VWO, VXF, VYM, XLC, XLF, XLI, XLV, XLY"
 
-"  - 強く買いタイミング！！！: AGG, AGGY, BND, CLOU, EDOC, FINX, ICLN, LQD, PBD, TIP, TLT, VOT, VWOB"
+"  - 強く買いタイミング！！！: QQQ, VTI, SPY, DIA, VOO, AGG, AGGY, BND, ICLN, IYR, PBD, SPLG, SPTM, SPYD, SPYG, SRET, SUSA, TLT, VDC, VGT, VIG, VONE, VONV, VOOG, VOOV, VPU, VT, VWOB, XLK, XLP, XLRE, XLU"
 
-"  - 利確タイミング！: VFH, VOOV, XLF"
+"  - 利確する銘柄なしで、見送り"
 
-"  - 強く利確タイミング！！！: HDV, SPYD, VDC, VDE, VYM, XLP"
+"- 2022-10-10 レバレッジ銘柄"
 
-"- 2022-01-07 レバレッジ銘柄"
-
-"  - 買いタイミング！: TQQQ, CHAU, TNA"
-
-"  - 強く買いタイミング！！！: YINN, WEBL, CWEB, LABU, EDC"
+"  - 強く買いタイミング！！！: SOXL, YINN, WEBL, TECL, TQQQ, UDOW, CHAU, CWEB, CURE, LABU, TNA, INDL, SPXL, FAS, DRN, EDC, QLD"
 
 "  - 利確する銘柄なしで、見送り"
 
